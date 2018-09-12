@@ -20,7 +20,7 @@ public class StoreData {
         e1.setLastName("Myrzakanov");
 
         //insert record
-        //session.save(e1);
+        session.save(e1);
 
         //update record
         //session.update(e1);
